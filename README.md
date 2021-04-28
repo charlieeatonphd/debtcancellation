@@ -14,4 +14,4 @@ We render all figures in the paper using the color palette, other style elements
 
 Figure 7 plots mean debt cancellation under the Warren-Schumer plan by net worth and race for selected net worth deciles. The disparities are so large that student debt bars for the bottom decile would run off the page in a bar graph that also plotted the minimal student debts of top net worth deciles. We instead use the Du Bois spiral developed in 1900 to solve similar scaling problems when graphing radical shifts in Black household wealth after emancipation.
 
-![f7duboisspiral](figures/f7_spiralcancelnetworthrace.pdf)
+![f7duboisspiral](figures/f7_spiralcancelnetworthrace.png)
