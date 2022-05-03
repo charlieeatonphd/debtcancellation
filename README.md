@@ -1,9 +1,19 @@
-## Replication Package for "Debt Cancellation *Is* Progressive"
+## Student Debt Cancellation IS Progressive: Correcting Empirical and Conceptual Errors
 
-### a Roosevelt Institute research paper
+### By Charlie Eaton, Adam Goldstein, Laura Hamilton, and Frederick Wherry
 
-by Charlie Eaton, Adam Goldstein, Laura Hamilton, and Frederick Wherry
+Summary: Analysis of household wealth data shows that student debt cancellation—at all proposed levels—is progressive.
 
+**Data**
+  - Survey of Consumer Finances
+
+**Citation**
+Eaton, Charlie, Adam Goldstein, Laura Hamilton, and Frederick Wherry. "Student Debt Cancellation IS Progressive: Correcting Empirical and Conceptual Errors." Available at SSRN 3909430 (2021). https://rooseveltinstitute.org/wp-content/uploads/2021/06/RI_StudentDebtCancellation_IssueBrief_202106.pdf
+
+**Abstract**
+We address the myth of student loan cancellation regressivity: the idea that student debt cancellation is regressive because it involves a public transfer to a relatively well-off group—those with some college education. We show that the regressive cancellation myth rests on a series of misleading methodological foundations: including private student loans in calculations of cancellation, conditioning analyses on borrowers only, focusing primarily on debtors’ income rather than wealth, basing calculations on the value of debt to the government rather than the value to borrowers, and ignoring the racial distribution of debt.
+
+**Code**
 All replication code is in Stata but is provided and executed in Jupyter Notebooks (.ipnynb) using a Stata Kernel. For details see: https://kylebarron.dev/stata_kernel/
 
 Each .ipynb Notebook file begininning with "f" in the repository includes both code for all of our analyses and the graphs they produce. The .ipynb file beginning with "d" downloads source data from the Survey of Consumer Finances and builds the data set for all of our analyses. Some notebooks, such as "f3_cancellationbyassets.ipynyb" include code and redering for alternate versions of figures and analyses that we include in the paper.
