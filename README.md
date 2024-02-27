@@ -4,6 +4,10 @@
 
 Summary: Analysis of household wealth data shows that student debt cancellation—at all proposed levels—is progressive.
 
+Updates:
+* We published an essay explaining this research and the case for debt cancellation in the *New York Times* on May 17, 2022 here: https://www.nytimes.com/2022/05/17/opinion/student-debt-forgiveness.html
+* We also expanded on our original paper in the memo to Senator Elizabeth Warren provided above.
+
 **Data**
   - Survey of Consumer Finances
 
